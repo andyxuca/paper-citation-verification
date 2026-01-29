@@ -1,0 +1,860 @@
+{
+  "verified": [
+    {
+      "title": "Adapting language models to compress contexts",
+      "authors": [
+        "Alexis Chevalier",
+        "Alexander Wettig",
+        "Anirudh Ajith",
+        "Danqi Chen"
+      ],
+      "semantic_scholar": {
+        "title": "Adapting Language Models to Compress Contexts",
+        "authors": [
+          "Alexis Chevalier",
+          "Alexander Wettig",
+          "Anirudh Ajith",
+          "Danqi Chen"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "Learning to compress prompt in natural language formats",
+      "authors": [
+        "Yu-Neng Chuang",
+        "Tianwei Xing",
+        "Chia-Yuan Chang",
+        "Zirui Liu",
+        "Xun Chen",
+        "Xia Hu"
+      ],
+      "semantic_scholar": {
+        "title": "Learning to Compress Prompt in Natural Language Formats",
+        "authors": [
+          "Yu-Neng Chuang",
+          "Tianwei Xing",
+          "Chia-yuan Chang",
+          "Zirui Liu",
+          "Xun Chen",
+          "Xia Hu"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "In-context autoencoder for context compression in a large language model",
+      "authors": [
+        "Tao Ge",
+        "Jing Hu",
+        "Lei Wang",
+        "Xun Wang",
+        "Si-Qing Chen",
+        "Furu Wei"
+      ],
+      "semantic_scholar": {
+        "title": "In-context Autoencoder for Context Compression in a Large Language Model",
+        "authors": [
+          "Tao Ge",
+          "Jing Hu",
+          "Xun Wang",
+          "Si-Qing Chen",
+          "Furu Wei"
+        ]
+      },
+      "score": 0.95
+    },
+    {
+      "title": "Cruxeval: A benchmark for code reasoning, understanding and execution",
+      "authors": [
+        "Alex Gu",
+        "Baptiste Rozi\u00e8re",
+        "Hugh Leather",
+        "Armando Solar-Lezama",
+        "Gabriel Synnaeve",
+        "Sida I. Wang"
+      ],
+      "semantic_scholar": {
+        "title": "CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution",
+        "authors": [
+          "Alex Gu",
+          "Baptiste Rozi\u00e8re",
+          "Hugh Leather",
+          "Armando Solar-Lezama",
+          "Gabriel Synnaeve",
+          "Sida Wang"
+        ]
+      },
+      "score": 0.95
+    },
+    {
+      "title": "Deliberative alignment: Reasoning enables safer language models",
+      "authors": [
+        "Melody Y . Guan",
+        "Manas Joglekar",
+        "Eric Wallace",
+        "Saachi Jain",
+        "Boaz Barak",
+        "Alec Helyar",
+        "Rachel Dias",
+        "Andrea Vallone",
+        "Hongyu Ren",
+        "Jason Wei",
+        "Hyung Won Chung",
+        "Sam Toyer",
+        "Johannes Heidecke",
+        "Alex Beutel",
+        "Amelia Glaese"
+      ],
+      "semantic_scholar": {
+        "title": "Deliberative Alignment: Reasoning Enables Safer Language Models",
+        "authors": [
+          "Melody Y. Guan",
+          "Manas R. Joglekar",
+          "Eric Wallace",
+          "Saachi Jain",
+          "Boaz Barak",
+          "Alec Helyar",
+          "Rachel Dias",
+          "Andrea Vallone",
+          "Hongyu Ren",
+          "Jason Wei",
+          "Hyung Won Chung",
+          "S. Toyer",
+          "Johannes Heidecke",
+          "Alex Beutel",
+          "Amelia Glaese"
+        ]
+      },
+      "score": 0.96
+    },
+    {
+      "title": "Long short-term memory",
+      "authors": [
+        "S Hochreiter",
+        "J Schmidhuber"
+      ],
+      "semantic_scholar": {
+        "title": "Long Short-Term Memory",
+        "authors": [
+          "Sepp Hochreiter",
+          "J. Schmidhuber"
+        ]
+      },
+      "score": 0.85
+    },
+    {
+      "title": "Lora: Low-rank adaptation of large language models",
+      "authors": [
+        "Edward J Hu",
+        "Yelong Shen",
+        "Phillip Wallis",
+        "Zeyuan Allen-Zhu",
+        "Yuanzhi Li",
+        "Shean Wang",
+        "Lu Wang",
+        "Weizhu Chen"
+      ],
+      "semantic_scholar": {
+        "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+        "authors": [
+          "J. E. Hu",
+          "Yelong Shen",
+          "Phillip Wallis",
+          "Zeyuan Allen-Zhu",
+          "Yuanzhi Li",
+          "Shean Wang",
+          "Weizhu Chen"
+        ]
+      },
+      "score": 0.9249999999999999
+    },
+    {
+      "title": "Llmlingua: Compressing prompts for accelerated inference of large language models",
+      "authors": [
+        "Huiqiang Jiang",
+        "Qianhui Wu",
+        "Chin-Yew Lin",
+        "Yuqing Yang",
+        "Lili Qiu"
+      ],
+      "semantic_scholar": {
+        "title": "LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models",
+        "authors": [
+          "Huiqiang Jiang",
+          "Qianhui Wu",
+          "Chin-Yew Lin",
+          "Yuqing Yang",
+          "Lili Qiu"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "Longllmlingua: Accelerating and enhancing llms in long context scenarios via prompt compression",
+      "authors": [
+        "Huiqiang Jiang",
+        "Qianhui Wu",
+        "Xufang Luo",
+        "Dongsheng Li",
+        "Chin-Yew Lin",
+        "Yuqing Yang",
+        "Lili Qiu"
+      ],
+      "semantic_scholar": {
+        "title": "LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression",
+        "authors": [
+          "Huiqiang Jiang",
+          "Qianhui Wu",
+          "Xufang Luo",
+          "Dongsheng Li",
+          "Chin-Yew Lin",
+          "Yuqing Yang",
+          "Lili Qiu"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "Discrete prompt compression with reinforcement learning",
+      "authors": [
+        "Hoyoun Jung",
+        "Kyung-Joong Kim"
+      ],
+      "semantic_scholar": {
+        "title": "Discrete Prompt Compression With Reinforcement Learning",
+        "authors": [
+          "Hoyoun Jung",
+          "Kyung-Joong Kim"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "Scaling laws for neural language models",
+      "authors": [
+        "Jared Kaplan",
+        "Sam McCandlish",
+        "Tom Henighan",
+        "Tom B Brown",
+        "Benjamin Chess",
+        "Rewon Child",
+        "Scott Gray",
+        "Alec Radford",
+        "Jeffrey Wu",
+        "Dario Amodei"
+      ],
+      "semantic_scholar": {
+        "title": "Scaling Laws for Neural Language Models",
+        "authors": [
+          "J. Kaplan",
+          "Sam McCandlish",
+          "T. Henighan",
+          "Tom B. Brown",
+          "Benjamin Chess",
+          "R. Child",
+          "Scott Gray",
+          "Alec Radford",
+          "Jeff Wu",
+          "Dario Amodei"
+        ]
+      },
+      "score": 0.8799999999999999
+    },
+    {
+      "title": "The power of scale for parameter-efficient prompt tuning",
+      "authors": [
+        "Brian Lester",
+        "Rami Al-Rfou",
+        "Noah Constant"
+      ],
+      "semantic_scholar": {
+        "title": "The Power of Scale for Parameter-Efficient Prompt Tuning",
+        "authors": [
+          "Brian Lester",
+          "Rami Al-Rfou",
+          "Noah Constant"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "How do students use chatgpt as a writing support?",
+      "authors": [
+        "Sarah Levine",
+        "Sarah W Beck",
+        "Chris Mah",
+        "Lena Phalen",
+        "Jaylen PIttman"
+      ],
+      "semantic_scholar": {
+        "title": "How do students use ChatGPT as a writing support?",
+        "authors": [
+          "Sarah Levine",
+          "Sarah W. Beck",
+          "Chris Mah",
+          "Lena Phalen",
+          "Jaylen Pittman"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "Prefix-tuning: Optimizing continuous prompts for generation",
+      "authors": [
+        "Xiang Lisa Li",
+        "Percy Liang"
+      ],
+      "semantic_scholar": {
+        "title": "Prefix-Tuning: Optimizing Continuous Prompts for Generation",
+        "authors": [
+          "Xiang Lisa Li",
+          "Percy Liang"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "Compressing context to enhance inference efficiency of large language models",
+      "authors": [
+        "Yucheng Li",
+        "Bo Dong",
+        "Frank Guerin",
+        "Chenghua Lin"
+      ],
+      "semantic_scholar": {
+        "title": "Compressing Context to Enhance Inference Efficiency of Large Language Models",
+        "authors": [
+          "Yucheng Li",
+          "Bo Dong",
+          "Chenghua Lin",
+          "Frank Guerin"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "Prompt compression for large language models: A survey",
+      "authors": [
+        "Zongqian Li",
+        "Yinhong Liu",
+        "Yixuan Su",
+        "Nigel Collier"
+      ],
+      "semantic_scholar": {
+        "title": "Prompt Compression for Large Language Models: A Survey",
+        "authors": [
+          "Zongqian Li",
+          "Yinhong Liu",
+          "Yixuan Su",
+          "Nigel Collier"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "500xcompressor: Generalized prompt compression for large language models",
+      "authors": [
+        "Zongqian Li",
+        "Yixuan Su",
+        "Nigel Collier"
+      ],
+      "semantic_scholar": {
+        "title": "500xCompressor: Generalized Prompt Compression for Large Language Models",
+        "authors": [
+          "Zongqian Li",
+          "Yixuan Su",
+          "Nigel Collier"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "Prompt compression with context-aware sentence encoding for fast and improved llm inference",
+      "authors": [
+        "Barys Liskavets",
+        "Maxim Ushakov",
+        "Shuvendu Roy",
+        "Mark Klibanov",
+        "Ali Etemad",
+        "Shane Luke"
+      ],
+      "semantic_scholar": {
+        "title": "Prompt Compression with Context-Aware Sentence Encoding for Fast and Improved LLM Inference",
+        "authors": [
+          "Barys Liskavets",
+          "Maxim Ushakov",
+          "Shuvendu Roy",
+          "Mark Klibanov",
+          "Ali Etemad",
+          "Shane Luke"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "TCRA-LLM: Token compression retrieval augmented large language model for inference cost reduction",
+      "authors": [
+        "Junyi Liu",
+        "Liangzhi Li",
+        "Tong Xiang",
+        "Bowen Wang",
+        "Yiming Qian"
+      ],
+      "semantic_scholar": {
+        "title": "TCRA-LLM: Token Compression Retrieval Augmented Large Language Model for Inference Cost Reduction",
+        "authors": [
+          "Junyi Liu",
+          "Liangzhi Li",
+          "Tong Xiang",
+          "Bowen Wang",
+          "Yiming Qian"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "Repobench: Benchmarking repository-level code auto-completion systems",
+      "authors": [
+        "Tianyang Liu",
+        "Canwen Xu",
+        "Julian McAuley"
+      ],
+      "semantic_scholar": {
+        "title": "RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems",
+        "authors": [
+          "Tianyang Liu",
+          "Canwen Xu",
+          "Julian McAuley"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "Learning to compress prompts with gist tokens",
+      "authors": [
+        "Jesse Mu",
+        "Xiang Li",
+        "Noah Goodman"
+      ],
+      "semantic_scholar": {
+        "title": "Learning to Compress Prompts with Gist Tokens",
+        "authors": [
+          "Jesse Mu",
+          "Xiang Lisa Li",
+          "Noah D. Goodman"
+        ]
+      },
+      "score": 0.7999999999999999
+    },
+    {
+      "title": "Octopack: Instruction tuning code large language models",
+      "authors": [
+        "Niklas Muennighoff",
+        "Qian Liu",
+        "Armel Zebaze",
+        "Qinkai Zheng",
+        "Binyuan Hui",
+        "Terry Yue Zhuo",
+        "Swayam Singh",
+        "Xiangru Tang",
+        "Leandro von Werra",
+        "Shayne Longpre"
+      ],
+      "semantic_scholar": {
+        "title": "OctoPack: Instruction Tuning Code Large Language Models",
+        "authors": [
+          "Niklas Muennighoff",
+          "Qian Liu",
+          "Qi Liu",
+          "A. Zebaze",
+          "Qinkai Zheng",
+          "Binyuan Hui",
+          "Terry Yue Zhuo",
+          "Swayam Singh",
+          "Xiangru Tang",
+          "L. V. Werra",
+          "S. Longpre"
+        ]
+      },
+      "score": 0.9099999999999999
+    },
+    {
+      "title": "Training software engineering agents and verifiers with swe-gym",
+      "authors": [
+        "Jiayi Pan",
+        "Xingyao Wang",
+        "Graham Neubig",
+        "Navdeep Jaitly",
+        "Heng Ji",
+        "Alane Suhr",
+        "Yizhe Zhang"
+      ],
+      "semantic_scholar": {
+        "title": "Training Software Engineering Agents and Verifiers with SWE-Gym",
+        "authors": [
+          "Jiayi Pan",
+          "Xingyao Wang",
+          "Graham Neubig",
+          "N. Jaitly",
+          "Heng Ji",
+          "Alane Suhr",
+          "Yizhe Zhang"
+        ]
+      },
+      "score": 0.9571428571428571
+    },
+    {
+      "title": "Llmlingua-2: Data distillation for efficient and faithful task-agnostic prompt compression",
+      "authors": [
+        "Zhuoshi Pan",
+        "Qianhui Wu",
+        "Huiqiang Jiang",
+        "Menglin Xia",
+        "Xufang Luo",
+        "Jue Zhang",
+        "Qingwei Lin",
+        "Victor R\u00fchle",
+        "Yuqing Yang",
+        "Chin-Yew Lin"
+      ],
+      "semantic_scholar": {
+        "title": "LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression",
+        "authors": [
+          "Zhuoshi Pan",
+          "Qianhui Wu",
+          "Huiqiang Jiang",
+          "Menglin Xia",
+          "Xufang Luo",
+          "Jue Zhang",
+          "Qingwei Lin",
+          "Victor R\u00fchle",
+          "Yuqing Yang",
+          "Chin-Yew Lin",
+          "H. V. Zhao",
+          "Lili Qiu",
+          "Dongmei Zhang",
+          "Karl Cobbe",
+          "Vineet Kosaraju",
+          "Mo Bavarian",
+          "Mark Chen",
+          "Heewoo Jun",
+          "Lukasz Kaiser",
+          "Matthias Plappert",
+          "Jerry Tworek",
+          "Jacob Hilton",
+          "Reiichiro Nakano"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "Using the output embedding to improve language models",
+      "authors": [
+        "Ofir Press",
+        "Lior Wolf"
+      ],
+      "semantic_scholar": {
+        "title": "Using the Output Embedding to Improve Language Models",
+        "authors": [
+          "Ofir Press",
+          "Lior Wolf"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "Bidirectional recurrent neural networks",
+      "authors": [
+        "Mike Schuster",
+        "Kuldip K Paliwal"
+      ],
+      "semantic_scholar": {
+        "title": "Bidirectional recurrent neural networks",
+        "authors": [
+          "M. Schuster",
+          "K. Paliwal"
+        ]
+      },
+      "score": 0.7
+    },
+    {
+      "title": "Taco-rl: Task aware prompt compression optimization with reinforcement learning",
+      "authors": [
+        "Shivam Shandilya",
+        "Menglin Xia",
+        "Supriyo Ghosh",
+        "Huiqiang Jiang",
+        "Jue Zhang",
+        "Qianhui Wu",
+        "Victor R\u00fchle"
+      ],
+      "semantic_scholar": {
+        "title": "TACO-RL: Task Aware Prompt Compression Optimization with Reinforcement Learning",
+        "authors": [
+          "Shivam Shandilya",
+          "Menglin Xia",
+          "Supriyo Ghosh",
+          "Huiqiang Jiang",
+          "Jue Zhang",
+          "Qianhui Wu",
+          "Victor Ruhle"
+        ]
+      },
+      "score": 0.9571428571428571
+    },
+    {
+      "title": "Deepseekmath: Pushing the limits of mathematical reasoning in open language models",
+      "authors": [
+        "Zhihong Shao",
+        "Peiyi Wang",
+        "Qihao Zhu",
+        "Runxin Xu",
+        "Junxiao Song",
+        "Xiao Bi",
+        "Haowei Zhang",
+        "Mingchuan Zhang",
+        "Y . K. Li",
+        "Y . Wu",
+        "Daya Guo"
+      ],
+      "semantic_scholar": {
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "authors": [
+          "Zhihong Shao",
+          "Peiyi Wang",
+          "Qihao Zhu",
+          "R. Xu",
+          "Jun-Mei Song",
+          "Mingchuan Zhang",
+          "Y. K. Li",
+          "Yu Wu",
+          "Daya Guo"
+        ]
+      },
+      "score": 0.8636363636363635
+    },
+    {
+      "title": "Scaling llm test-time compute optimally can be more effective than scaling model parameters",
+      "authors": [
+        "Charlie Snell",
+        "Jaehoon Lee",
+        "Kelvin Xu",
+        "Aviral Kumar"
+      ],
+      "semantic_scholar": {
+        "title": "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters",
+        "authors": [
+          "C. Snell",
+          "Jaehoon Lee",
+          "Kelvin Xu",
+          "Aviral Kumar"
+        ]
+      },
+      "score": 0.9249999999999999
+    },
+    {
+      "title": "Comparing traditional and llm-based search for consumer choice: A randomized experiment",
+      "authors": [
+        "Sofia Eleni Spatharioti",
+        "David M Rothschild",
+        "Daniel G Goldstein",
+        "Jake M Hofman"
+      ],
+      "semantic_scholar": {
+        "title": "Comparing Traditional and LLM-based Search for Consumer Choice: A Randomized Experiment",
+        "authors": [
+          "S. Spatharioti",
+          "David M. Rothschild",
+          "D. Goldstein",
+          "Jake M. Hofman"
+        ]
+      },
+      "score": 0.85
+    },
+    {
+      "title": "Is chatgpt the ultimate programming assistant\u2013how far is it?",
+      "authors": [
+        "Haoye Tian",
+        "Weiqi Lu",
+        "Tsz On Li",
+        "Xunzhu Tang",
+        "Shing-Chi Cheung",
+        "Jacques Klein",
+        "Tegawend\u00e9 F Bissyand\u00e9"
+      ],
+      "semantic_scholar": {
+        "title": "Is ChatGPT the Ultimate Programming Assistant - How far is it?",
+        "authors": [
+          "Haoye Tian",
+          "Weiqi Lu",
+          "T. Li",
+          "Xunzhu Tang",
+          "S. Cheung",
+          "Jacques Klein",
+          "Tegawend'e F. Bissyand'e"
+        ]
+      },
+      "score": 0.8714285714285713
+    },
+    {
+      "title": "Visualizing data using t-sne",
+      "authors": [
+        "Laurens Van der Maaten",
+        "Geoffrey Hinton"
+      ],
+      "semantic_scholar": {
+        "title": "Visualizing Data using t-SNE",
+        "authors": [
+          "L. Maaten",
+          "Geoffrey E. Hinton"
+        ]
+      },
+      "score": 0.7
+    },
+    {
+      "title": "Attention is all you need",
+      "authors": [
+        "A Vaswani"
+      ],
+      "semantic_scholar": {
+        "title": "Attention is All you Need",
+        "authors": [
+          "Ashish Vaswani",
+          "Noam Shazeer",
+          "Niki Parmar",
+          "Jakob Uszkoreit",
+          "Llion Jones",
+          "Aidan N. Gomez",
+          "Lukasz Kaiser",
+          "I. Polosukhin"
+        ]
+      },
+      "score": 0.7
+    },
+    {
+      "title": "Chain-of-thought prompting elicits reasoning in large language models",
+      "authors": [
+        "Jason Wei",
+        "Xuezhi Wang",
+        "Dale Schuurmans",
+        "Maarten Bosma",
+        "Fei Xia",
+        "Ed Chi",
+        "Quoc V Le",
+        "Denny Zhou"
+      ],
+      "semantic_scholar": {
+        "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+        "authors": [
+          "Jason Wei",
+          "Xuezhi Wang",
+          "Dale Schuurmans",
+          "Maarten Bosma",
+          "Ed H. Chi",
+          "F. Xia",
+          "Quoc Le",
+          "Denny Zhou"
+        ]
+      },
+      "score": 0.8875
+    },
+    {
+      "title": "Scaling embedding layers in language models",
+      "authors": [
+        "Da Yu",
+        "Edith Cohen",
+        "Badih Ghazi",
+        "Yangsibo Huang",
+        "Pritish Kamath",
+        "Ravi Kumar",
+        "Daogao Liu",
+        "Chiyuan Zhang"
+      ],
+      "semantic_scholar": {
+        "title": "Scaling Embedding Layers in Language Models",
+        "authors": [
+          "Da Yu",
+          "Edith Cohen",
+          "Badih Ghazi",
+          "Yangsibo Huang",
+          "Pritish Kamath",
+          "Ravi Kumar",
+          "Daogao Liu",
+          "Chiyuan Zhang"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "Llm as a mastermind: A survey of strategic reasoning with large language models",
+      "authors": [
+        "Yadong Zhang",
+        "Shaoguang Mao",
+        "Tao Ge",
+        "Xun Wang",
+        "Adrian de Wynter",
+        "Yan Xia",
+        "Wenshan Wu",
+        "Ting Song",
+        "Man Lan",
+        "Furu Wei"
+      ],
+      "semantic_scholar": {
+        "title": "LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language Models",
+        "authors": [
+          "Yadong Zhang",
+          "Shaoguang Mao",
+          "Tao Ge",
+          "Xun Wang",
+          "Adrian de Wynter",
+          "Yan Xia",
+          "Wenshan Wu",
+          "Ting Song",
+          "Man Lan",
+          "Furu Wei"
+        ]
+      },
+      "score": 1.0
+    },
+    {
+      "title": "A universal algorithm for sequential data compression",
+      "authors": [
+        "J. Ziv",
+        "A. Lempel"
+      ],
+      "semantic_scholar": {
+        "title": "A universal algorithm for sequential data compression",
+        "authors": [
+          "J. Ziv",
+          "A. Lempel"
+        ]
+      },
+      "score": 1.0
+    }
+  ],
+  "unverified": [
+    {
+      "title": "Unifying demonstration selection and compression for in-context learning",
+      "authors": [
+        "Jun Gao",
+        "Ziqiang Cao",
+        "Wenjie Li"
+      ],
+      "semantic_scholar": null,
+      "score": 0.0
+    },
+    {
+      "title": "Adacomp: Extractive context compression with adaptive predictor for retrieval-augmented large language models",
+      "authors": [
+        "Qianchi Zhang",
+        "Hainan Zhang",
+        "Liang Pang",
+        "Hongwei Zheng",
+        "Zhiming Zheng"
+      ],
+      "semantic_scholar": null,
+      "score": 0.0
+    }
+  ]
+}
